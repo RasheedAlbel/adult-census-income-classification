@@ -128,7 +128,7 @@ associations — cannot fully capture.
 
 ---
 
-## 🔍 Feature Importance
+## Feature Importance
 
 ### Logistic Regression — Top Features
 | Feature                    | Direction | Interpretation                          |
