@@ -4,9 +4,9 @@
 > Predicting whether an individual earns more than $50K/year using sociodemographic
 > features from the UCI Adult Census Income dataset.
 
-**Course:** Introduction to Artificial Intelligence  
+**Course:** Introduction to Artificial Intelligence | **Date:** November 2024
 **Authors:** Rasheed Albel, Val Allen Eltagonde, Franz Andrei Layug
-**Date:** November 2024
+
 
 ---
 
@@ -163,5 +163,16 @@ associations — cannot fully capture.
 - Additional imbalance-handling techniques (e.g., class weighting, threshold
   tuning) could further improve minority class performance
 
+---
 
+## Individual Contributions
+
+This was a collaborative project completed as part of MATH 103.1.
+
+My primary contributions included:
+- Presenting the modeling workflow and analytical approach used in the project
+- Interpreting model outputs and evaluation results for technical presentation
+- Communicating key findings and their implications for regional SDG progression
+- Preparing presentation materials summarizing methodology and results
+- Supporting technical documentation of project insights
 
